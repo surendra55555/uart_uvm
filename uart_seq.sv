@@ -24,4 +24,4 @@ class uart_seq extends uvm_sequence #(tx_seq_item);
   
 endclass: uart_seq
   
-typedef uvm_sequencer #(tx_seq_item) uart_sequencer;
+//typedef uvm_sequencer #(tx_seq_item) uart_sequencer;
