@@ -1,5 +1,5 @@
 // import uart_pkg::*;
-`include "uart_env.sv"
+//`include "uart_env.sv"
 
 class uart_base_test extends uvm_test;
 
