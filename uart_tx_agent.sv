@@ -6,7 +6,8 @@ class uart_tx_agent extends uvm_agent;
   //components
   
   uart_tx_monitor tx_monitor;
-  uart_sequencer #(tx_seq_item) tx_sequencer;
+  //uart_sequencer #(tx_seq_item) tx_sequencer;
+  uart_sequencer tx_sequencer;
   uart_tx_driver tx_driver;
   uvm_analysis_port #(tx_seq_item) ap;
   
