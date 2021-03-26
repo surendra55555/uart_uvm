@@ -1,16 +1,3 @@
 design.sv
 testbench.sv
-tx_seq_item.sv
-uart_config.sv
-uart_env.sv
-uart_if.sv
-uart_pkg.sv
-uart_rx_agent.sv
-uart_rx_monitor.sv
-uart_seq.sv
-uart_sequencer.sv
 uart_test.sv
-uart_tx.sv
-uart_tx_agent.sv
-uart_tx_driver.sv
-uart_tx_monitor.sv
